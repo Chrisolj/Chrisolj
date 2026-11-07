@@ -1,11 +1,16 @@
+
 <!-- BANNER ANIMADO -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:911946,100:AF2457&height=180&section=header&text=CHRISTIAN%20JULIANO%20DE%20OLIVEIRA&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<!-- ANIMAÇÃO ROSA AVERMELHADA -->
+<!-- ANIMAÇÃO DE ÓRBITAS -->
 <p align="center">
-  <img width="220" src="./neon_raspberry_orbit.gif" />
+  <img
+    width="220"
+    src="https://raw.githubusercontent.com/Chrisolj/Chrisolj/main/Wave%20Animation.gif"
+    alt="Animação de círculos rosas"
+  />
 </p>
 
 <!-- TEXTO COM EFEITO DE DIGITAÇÃO -->
@@ -13,6 +18,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=1000&color=AF2457&center=true&vCenter=true&width=520&height=55&lines=Estudante+de+ADS;Aprendendo+Python+e+C;Explorando+Desenvolvimento+Web" />
 </p>
 
+<!-- SOBRE MIM -->
 <h2>👋 Sobre Mim:</h2>
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
@@ -21,6 +27,7 @@
 - 🚀 Interessado em tecnologia, automação e resolução de problemas.
 - 📚 Sempre aprendendo e desenvolvendo novos conhecimentos.
 
+<!-- REDES SOCIAIS -->
 <h2>🌐 Redes Sociais:</h2>
 
 <p align="left">
@@ -29,6 +36,7 @@
   </a>
 </p>
 
+<!-- TECNOLOGIAS -->
 <h2>💻 Tecnologias:</h2>
 
 <p align="left">
@@ -40,6 +48,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+<!-- ATUALMENTE APRENDENDO -->
 <h2>📚 Atualmente Aprendendo:</h2>
 
 <p align="left">
@@ -56,13 +65,16 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3000&pause=900&color=AA154D&center=true&vCenter=true&width=600&height=100&lines=%3E+Inicializando+perfil...;%3E+Estudando+Python+e+C...;%3E+Desenvolvendo+novos+projetos...;%3E+Sempre+aprendendo!" />
 </p>
 
+<!-- ESTATÍSTICAS DO GITHUB -->
 <h2>📊 Estatísticas do GitHub:</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Chrisolj&show_icons=true&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub&bg_color=0D1117&title_color=AF2457&icon_color=AA154D&text_color=AF2457&hide_border=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chrisolj&layout=compact&locale=pt-br&custom_title=Linguagens%20mais%20utilizadas&bg_color=0D1117&title_color=AF2457&text_color=AF2457&hide_border=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Chrisolj&show_icons=true&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub&bg_color=0D1117&title_color=AF2457&icon_color=AA154D&text_color=AF2457&hide_border=true" />
+
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chrisolj&layout=compact&locale=pt-br&custom_title=Linguagens%20mais%20utilizadas&bg_color=0D1117&title_color=AF2457&text_color=AF2457&hide_border=true" />
 </p>
 
+<!-- SEQUÊNCIA DE CONTRIBUIÇÕES -->
 <h2>🔥 Sequência de Contribuições:</h2>
 
 <p align="center">
