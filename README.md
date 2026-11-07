@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! Eu sou Christian Oliveira 👋
 
-<!--
-**Chrisolj/Chrisolj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+Atualmente estou desenvolvendo meus conhecimentos em programação, com foco em lógica, Python e desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e ferramentas
+
+- Python
+- HTML5
+- CSS3
+- Git
+- GitHub
+
+## 📚 Atualmente estudando
+
+- Lógica de programação
+- Estruturas de dados
+- Desenvolvimento web
+- Automação com Python
+
+## 🎯 Objetivos
+
+Construir projetos, desenvolver minhas habilidades como programador e evoluir constantemente na área de tecnologia.
+
+## 📫 Contato
+
+- LinkedIn: [Christian Juliano de Oliveira](https://www.linkedin.com/in/christian-juliano-de-oliveira/)
